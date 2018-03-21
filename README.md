@@ -25,3 +25,8 @@ require_once('TwitterAPIExchange.php');
 ```bash
 composer require j7mbo/twitter-api-php
 ```
+
+
+I have uploaded it on free host webserver you can see how it works.
+
+-https://audiometric-skew.000webhostapp.com/index.html
