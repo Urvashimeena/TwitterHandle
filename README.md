@@ -1,7 +1,5 @@
 twitter-api-php
-===============
 
-Simple PHP Wrapper for Twitter API v1.1 calls
 
 [![Total Downloads](https://img.shields.io/packagist/dt/j7mbo/twitter-api-php.svg)](https://packagist.org/packages/j7mbo/twitter-api-php)
 [![Build Status](https://travis-ci.org/J7mbo/twitter-api-php.svg?branch=master)](https://travis-ci.org/J7mbo/twitter-api-php)
